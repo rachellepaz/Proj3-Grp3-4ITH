@@ -22,7 +22,7 @@ print("                                              ")
 
 while True:
 
-    orig = input(Fore.BLUE + "Source Location: ")
+    orig = input(Fore.BLUE + "Source Locations: ")
     print("                                              ")
 
     if orig == "quit" or orig == "q":
